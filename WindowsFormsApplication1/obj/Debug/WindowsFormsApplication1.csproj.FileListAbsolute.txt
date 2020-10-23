@@ -1,0 +1,42 @@
+C:\Users\Abraam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Abraam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Abraam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Abraam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Abraam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Abraam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Abraam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Abraam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Abraam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Abraam\Desktop\Sounds Packing Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Abraam\Desktop\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Abraam\Desktop\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Abraam\Desktop\Sounds Packing Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Abraam\Desktop\Sounds Packing Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Abraam\Desktop\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Abraam\Desktop\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Abraam\Desktop\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Sounds Packing Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Sounds Packing Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Sounds Packing Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Sounds Packing Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Sounds Packing Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Abraam\Desktop\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Sounds Packing Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ibrahem\Desktop\New folder\Projects\Sounds Packing Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ibrahem\Desktop\New folder\Projects\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ibrahem\Desktop\New folder\Projects\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ibrahem\Desktop\New folder\Projects\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ibrahem\Desktop\New folder\Projects\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ibrahem\Desktop\New folder\Projects\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ibrahem\Desktop\New folder\Projects\Sounds Packing Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
